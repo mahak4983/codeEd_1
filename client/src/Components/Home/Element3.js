@@ -9,7 +9,7 @@ const Element3 = () => {
             <div className="container-fluid">
                 <div style={{ marginBottom: '0' }} className={`row ${styles.x}`}>
                     <div className="col s12 m6 l6">
-                        <h2 className={styles.h2}>We're finally building how developers should learn and connect</h2>
+                        <h2 className={styles.h2}>For you and for your Rights! </h2>
                         <p className={styles.p}>We agonize over the right ways for people to learn programming and work together as developers so you can focus on just your skills</p>
                         <button className={styles.btn}>Start Learning</button>
                     </div>

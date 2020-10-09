@@ -1,6 +1,5 @@
 import React from 'react';
 import 'materialize-css/dist/css/materialize.min.css';
-import Binary from "../../Images/Binary.jpg";
 import "./Element5.css";
 
 const Element5 = () => {
@@ -15,10 +14,7 @@ const Element5 = () => {
                         <button className="waves-effect waves-light btn btn5">Register</button>
                     </div>
                 </div>
-                <div className="col s12 l6 pull-l1 center">
-                    <img className="fit" src={Binary} alt="Element5" />
 
-                </div>
             </div>
         </div>
     );
